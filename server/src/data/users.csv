@@ -1,0 +1,16 @@
+name,email,password,role,age
+Admin Principal,admin@reservas.com,123456,admin,35
+Juan Perez,juan.perez@gmail.com,123456,user,28
+Maria Garcia,maria.garcia@gmail.com,123456,user,32
+Carlos Lopez,carlos.perez@gmail.com,123456,user,24
+Ana Martinez,ana.martinez@gmail.com,123456,user,29
+Lucia Fernandez,lucia.fernandez@gmail.com,123456,user,41
+David Sanchez,david.sanchez@gmail.com,123456,user,33
+Elena Gomez,elena.gomez@gmail.com,123456,user,26
+Javier Ruiz,javier.ruiz@gmail.com,123456,user,30
+Sofia Diaz,sofia.diaz@gmail.com,123456,user,22
+Miguel Torres,miguel.torres@gmail.com,123456,user,38
+Paula Alvarez,paula.alvarez@gmail.com,123456,user,27
+Daniel Romero,daniel.romero@gmail.com,123456,user,31
+Laura Gil,laura.gil@gmail.com,123456,user,25
+Alejandro Serrano,alejandro.serrano@gmail.com,123456,user,36
